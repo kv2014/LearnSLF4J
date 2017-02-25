@@ -1,0 +1,27 @@
+209  [main] ERROR Wombat.java 8 Learndemo.Wombat -  Temperature set to 1. Old temperature was null.  
+212  [main] ERROR BaseClass.java 10 Learndemo.Wombat -  Temperature set to 20. Old temperature was 30.  
+213  [main] ERROR Wombat.java 8 Learndemo.Wombat -  Temperature set to 55. Old temperature was 1.  
+213  [main] DEBUG Wombat.java 10 Learndemo.Wombat -  Temperature has risen above 50 degrees. 1 
+213  [main] ERROR BaseClass.java 10 Learndemo.Wombat -  Temperature set to 20. Old temperature was 30.  
+214  [main] ERROR class2.java 12 Learndemo.class2 -  Temperature set to 20. Old temperature was 30.  
+214  [main] ERROR BaseClass.java 10 Learndemo.BaseClass -  Temperature set to 20. Old temperature was 30.  
+183  [main] ERROR Wombat.java 8 Learndemo.Wombat -  Temperature set to 1. Old temperature was null.  
+186  [main] ERROR BaseClass.java 10 Learndemo.Wombat -  Temperature set to 20. Old temperature was 30.  
+186  [main] ERROR Wombat.java 8 Learndemo.Wombat -  Temperature set to 55. Old temperature was 1.  
+186  [main] DEBUG Wombat.java 10 Learndemo.Wombat -  Temperature has risen above 50 degrees. 1 
+186  [main] ERROR BaseClass.java 10 Learndemo.Wombat -  Temperature set to 20. Old temperature was 30.  
+187  [main] ERROR class2.java 12 Learndemo.class2 -  Temperature set to 20. Old temperature was 30.  
+187  [main] ERROR BaseClass.java 10 Learndemo.BaseClass -  Temperature set to 20. Old temperature was 30.  
+181  [main] ERROR Wombat.java 8 Learndemo.Wombat -  Temperature set to 1. Old temperature was null.  
+184  [main] ERROR BaseClass.java 10 Learndemo.Wombat -  Temperature set to 20. Old temperature was 30.  
+184  [main] ERROR Wombat.java 8 Learndemo.Wombat -  Temperature set to 55. Old temperature was 1.  
+184  [main] ERROR BaseClass.java 10 Learndemo.Wombat -  Temperature set to 20. Old temperature was 30.  
+185  [main] ERROR class2.java 12 Learndemo.class2 -  Temperature set to 20. Old temperature was 30.  
+185  [main] ERROR BaseClass.java 10 Learndemo.BaseClass -  Temperature set to 20. Old temperature was 30.  
+176  [main] ERROR Wombat.java 8 Learndemo.Wombat -  Temperature set to 1. Old temperature was null.  
+179  [main] ERROR BaseClass.java 10 Learndemo.Wombat -  Temperature set to 20. Old temperature was 30.  
+179  [main] ERROR Wombat.java 8 Learndemo.Wombat -  Temperature set to 55. Old temperature was 1.  
+179  [main] DEBUG Wombat.java 10 Learndemo.Wombat -  Temperature has risen above 50 degrees. 1 
+179  [main] ERROR BaseClass.java 10 Learndemo.Wombat -  Temperature set to 20. Old temperature was 30.  
+180  [main] ERROR class2.java 12 Learndemo.class2 -  Temperature set to 20. Old temperature was 30.  
+180  [main] ERROR BaseClass.java 10 Learndemo.BaseClass -  Temperature set to 20. Old temperature was 30.  
